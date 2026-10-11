@@ -7,7 +7,7 @@ function App() {
 
     return (
         <main>
-            <h1>Introducción a React 🫠</h1>
+            <h1>Introducción a React 🎮</h1>
             <p>{texto}</p>
             <Button text={texto} setTexto={setTexto} textBtn="Switch" />
         </main>
