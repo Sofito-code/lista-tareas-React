@@ -9,7 +9,7 @@ function App() {
         <main>
             <h1>Introducción a React</h1>
             <p>{texto}</p>
-            <Button text={texto} setTexto={setTexto} textBtn="Cambiar texto" />
+            <Button text={texto} setTexto={setTexto} textBtn="Switch" />
         </main>
     );
 }
